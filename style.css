@@ -1,5 +1,8 @@
 .foto{
-  background-image: URL("");
+  background-image: URL("https://img.freepik.com/fotos-premium/sol-com-manchas-solares-vistas-com-telescopio_469558-2587.jpg");
   background-repeat: no-repeat;
   background-size:50%;
+}
+body{
+  background-color: red;
 }
